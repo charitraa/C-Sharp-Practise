@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "P:\\C#\\C#.csproj",
+      "projectUniqueName": "P:\\Code\\C#\\C#.csproj",
       "projectName": "C#",
-      "projectPath": "P:\\C#\\C#.csproj",
+      "projectPath": "P:\\Code\\C#\\C#.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "P:\\C#\\obj\\",
+      "outputPath": "P:\\Code\\C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
