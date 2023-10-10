@@ -12,3 +12,17 @@ P:\C#\obj\Debug\net7.0\refint\C#.dll
 P:\C#\obj\Debug\net7.0\C#.pdb
 P:\C#\obj\Debug\net7.0\C#.genruntimeconfig.cache
 P:\C#\obj\Debug\net7.0\ref\C#.dll
+P:\Code\C#\bin\Debug\net7.0\C#.exe
+P:\Code\C#\bin\Debug\net7.0\C#.deps.json
+P:\Code\C#\bin\Debug\net7.0\C#.runtimeconfig.json
+P:\Code\C#\bin\Debug\net7.0\C#.dll
+P:\Code\C#\bin\Debug\net7.0\C#.pdb
+P:\Code\C#\obj\Debug\net7.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+P:\Code\C#\obj\Debug\net7.0\C#.AssemblyInfoInputs.cache
+P:\Code\C#\obj\Debug\net7.0\C#.AssemblyInfo.cs
+P:\Code\C#\obj\Debug\net7.0\C#.csproj.CoreCompileInputs.cache
+P:\Code\C#\obj\Debug\net7.0\C#.dll
+P:\Code\C#\obj\Debug\net7.0\refint\C#.dll
+P:\Code\C#\obj\Debug\net7.0\C#.pdb
+P:\Code\C#\obj\Debug\net7.0\C#.genruntimeconfig.cache
+P:\Code\C#\obj\Debug\net7.0\ref\C#.dll
